@@ -47,5 +47,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 update_element_from_index = ["wow", "I", "am", "really", "learning", "arrays!"]
-up
+update_element_from_index[0] = "Yay"
 end
