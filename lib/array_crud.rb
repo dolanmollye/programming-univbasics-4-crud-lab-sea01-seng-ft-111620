@@ -31,7 +31,7 @@ p beginning_of_array
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  retrieve_element_from_index [2]
 end
 
 def retrieve_first_element_from_array(array)
